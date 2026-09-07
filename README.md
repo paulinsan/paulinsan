@@ -24,7 +24,7 @@
 ### Tools
 
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode,discord,figma&perline=6)
+![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma&perline=6)
 
 
 </div>
