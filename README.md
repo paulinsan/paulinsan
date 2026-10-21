@@ -12,13 +12,13 @@
 
 ### Development technologies
 
-![My Skills](https://skillicons.dev/icons?i=python,css,html,js,&perline=6)
+![My Skills](https://skillicons.dev/icons?i=python,css,html,js,c,&perline=6)
 
 
 
 ### Studying at the moment
 
-![My Skills](https://skillicons.dev/icons?i=mysql,c,ts,react,nodejs,sqlite,mongodb,azure,postgres,linux,prisma&perline=6)
+![My Skills](https://skillicons.dev/icons?i=mysql,ts,react,nodejs,sqlite,mongodb,azure,postgres,linux,prisma&perline=6)
 
 
 ### Tools
