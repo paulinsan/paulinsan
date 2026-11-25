@@ -3,24 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c6c6d1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo+Santos;I'm+20+years+old;I'm+from+São+Paulo,+BR;I'm+Study+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-## Contact
+## ✉️ Contact
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=6)](https://www.linkedin.com/in/pauloh-santos019/)
 [![Gmail](https://skillicons.dev/icons?i=gmail&perline=6)](mailto:paulohsantos019@gmail.com?subject=Contato%20pelo%20portf%C3%B3lio)
 
 ## 🚀 Skills
 
-### Development technologies
+### 💻 Development technologies
 
 ![My Skills](https://skillicons.dev/icons?i=python,c,js,css,html,&perline=6)
 
 
-### Studying at the moment
+### 📚 Studying at the moment
 
 ![My Skills](https://skillicons.dev/icons?i=ruby,cpp,ts,mysql,sqlite,mongodb,postgres,react,nodejs,azure,prisma,githubactions,bots,ubuntu,linux,&perline=6)
 
 
-### Tools
+### 🛠️ Tools
 
 
 ![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma&perline=6)
