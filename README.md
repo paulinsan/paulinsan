@@ -5,20 +5,19 @@
 
 ## Contact
 
-
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=6)](https://www.linkedin.com/in/pauloh-santos019/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=6)](mailto:paulohsantos019@gmail.com?subject=Contato%20pelo%20portf%C3%B3lio)
 
 ## 🚀 Skills
 
 ### Development technologies
 
-![My Skills](https://skillicons.dev/icons?i=python,css,html,js,c,&perline=6)
-
+![My Skills](https://skillicons.dev/icons?i=python,c,js,css,html,&perline=6)
 
 
 ### Studying at the moment
 
-![My Skills](https://skillicons.dev/icons?i=mysql,ts,react,nodejs,sqlite,mongodb,azure,postgres,linux,prisma&perline=6)
+![My Skills](https://skillicons.dev/icons?i=ruby,cpp,ts,mysql,sqlite,mongodb,postgres,react,nodejs,azure,prisma,githubactions,bots,ubuntu,linux,&perline=6)
 
 
 ### Tools
